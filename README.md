@@ -1,4 +1,4 @@
-# AltSchool Cloud Track Semester II; First Assignment
+# AltSchool Cloud Track Semester III; First Assignment
 
 ## Objective
 Create a static website and host it on AWS S3 bucket using CloudFront as CDN.
